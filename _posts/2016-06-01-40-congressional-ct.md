@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '40 Congressional Ct. '
-datePublished: '2016-06-01T15:25:48.412Z'
-dateModified: '2016-06-01T15:24:14.939Z'
+datePublished: '2016-06-01T15:30:49.803Z'
+dateModified: '2016-06-01T15:30:22.034Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-40-congressional-ct.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-40-congressional-ct.md
 url: 40-congressional-ct/index.html
 _type: Article
 
